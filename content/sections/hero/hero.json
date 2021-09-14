@@ -1,0 +1,18 @@
+{
+  "intro": "Hey",
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm Oneil Gordon",
+  "subtitle": {
+    "prefix": "a Full Stack",
+    "highlight": " Software Engineer",
+    "suffix": "."
+  },
+  "description": "I enjoy building amazing experiences.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}
