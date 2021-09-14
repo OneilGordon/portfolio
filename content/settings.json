@@ -1,31 +1,30 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "siteUrl": "https://oneilgordon.dev/",
+    "title": "Oneil Gordon Full Stack Developer",
+    "titleTemplate": "%s · Oneil Gordon",
+    "description": "A site showcasing the work of Oneil Gordon",
+    "author": "Oneil Gordon",
+    "avatar": "../content/images/onei-profile.jpg",
+    "bio": "Highly motivated, immensely curious and always learning. Fluent in Python and JavaScript across the stack.",
     "social": {
       "github": "https://github.com/OneilGordon",
-      "medium": "https://konstantinmuenster.medium.com",
       "linkedin": "https://www.linkedin.com/in/oneil-gordon",
-      "mail": "mailto:oneilgordon@gmail.com"
+      "mail": "mailto:contact@oneilgordon.dev"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "og." },
+    "logo": { "text": "og" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
-        { "label": "Projects", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": ".about()", "url": "/#about" },
+        { "label": ".projects()", "url": "/#features" },
+        { "label": ".github()", "url": "/#github" }
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
+        "label": "resume",
         "url": "/resume.pdf"
       },
       "footer": [

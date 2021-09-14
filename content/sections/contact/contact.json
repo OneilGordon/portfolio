@@ -1,9 +1,9 @@
 {
   "name": "Oneil Gordon",
-  "email": "oneilgordon@gmail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "email": "contact@oneilgordon.dev",
+  "description": "I'm always open to exploring new opportunities. Looking forward to hearing from you.",
   "image": {
-    "src": "../../images/favicon.png",
+    "src": "../../images/oneil-profile.jpg",
     "alt": "Gatsby Logo"
   },
   "socialProfiles": {

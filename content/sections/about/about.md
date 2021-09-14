@@ -1,12 +1,10 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/oneil-large.jpg"
+imageAlt: "Oneil walking the streets of Montreal"
 ---
 
-I'm a Full Stack Developer who's been building industry utilized applications since my second year of college. Since then, I've worked in startups, founded a couple myself, and taken on freelance projects and consulting for clients.
+I'm a Full Stack Developer who's ....   Since then, I've built industury focused applications, worked in a startup and provided consulting and development for freelance clients.
 
-My educational background in mathematics and computer science has provided me with an acute attention to detail, a great deal of technical skill, and vast problem solving experience. The rigorous university degree program has allowed me to develop an excellent learning skill set. 
-
-If I am not familiar with a topic or specialty area, I possess the ability and training to become proficient with it very quickly.
+My time in university was spent studying mathematics and computer science. These years nurtured and honed my problem solving skill set, allowed me to develop an acute attention to detail and additionally acquire a great deal of technical skill. Most importantly however, I learned how to learn. If I am not familiar with a topic or specialty area, I possess the proven ability to reach proficient in a short amount of time.
 
 Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
