@@ -3,9 +3,9 @@
     {
       "visible": true,
       "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "title": "Event Calendar",
+      "description": "Full Stack Calendar application built using React, Express and MongoDB. Users can add, remove and edit events saved by organization to a persistent database.",
+      "tags": ["React", "Express.js", "Node.js", "MongoDB", "API"],
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
         "alt": "Quick Setup"
@@ -24,9 +24,47 @@
     {
       "visible": true,
       "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "title": "Audbren Elevating Landing Site",
+      "description": "Landing site for Audbren Elevating. Incorporates Google Maps to show business locations.",
+      "tags": ["GatsbyJS", "HTML5", "CSS"],
+      "image": {
+        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        },
+        {
+          "type": "external",
+          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🕹️ EASY AND QUICK SETUP",
+      "title": "SendGrid events",
+      "description": "Pull mailing events from SendGrid using either a webhook or timed api calls.",
+      "tags": ["DevOps", "Azure", "WebHooks", "API", "Python"],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Quick Setup"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🧰 EXTENDABLE LAYOUT",
+      "title": "Data Factory Unzip",
+      "description": "Data Factory pipeline step that handles extraction of very large zip files.",
+      "tags": ["DevOps", "Azure", "WebHooks", "API", "Python", "Pipeline"],
       "image": {
         "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
         "alt": "Extendable Layout"
@@ -41,7 +79,7 @@
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "Other Projects",
+    "url": "https://github.com/OneilGordon?tab=repositories"
   }
 }

@@ -18,13 +18,13 @@
     "logo": { "text": "og" },
     "navigation": {
       "header": [
-        { "label": ".about()", "url": "/#about" },
-        { "label": ".projects()", "url": "/#features" },
-        { "label": ".github()", "url": "/#github" }
+        { "label": ".about", "url": "/#about" },
+        { "label": ".projects", "url": "/#features" },
+        { "label": ".github", "url": "/#github" }
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "resume",
+        "label": ".resume",
         "url": "/resume.pdf"
       },
       "footer": [
