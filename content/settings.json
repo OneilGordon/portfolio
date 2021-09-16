@@ -25,11 +25,11 @@
       "ctaButton": {
         "openNewTab": true,
         "label": ".resume",
-        "url": "/resume.pdf"
+        "url": "/oneil-resume.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "Copyright © 2021", "url": "" },
+        { "label": "", "url": "" }
       ]
     },
     "featureToggles": {

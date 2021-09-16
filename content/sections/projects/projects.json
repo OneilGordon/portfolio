@@ -2,77 +2,77 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
+      "category": "📅",
       "title": "Event Calendar",
-      "description": "Full Stack Calendar application built using React, Express and MongoDB. Users can add, remove and edit events saved by organization to a persistent database.",
-      "tags": ["React", "Express.js", "Node.js", "MongoDB", "API"],
+      "description": "Full stack Event Calendar application built using React for the client, alogside Express and MongoDB for the API. Users can add, remove and edit events(sorted by organization) to a persistent database.",
+      "tags": ["React", "Express.js", "Node.js", "MongoDB"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/event-calendar.png",
         "alt": "Quick Setup"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/OneilGordon/event-calendar"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://upbeat-wing-c75d9a.netlify.app"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
+      "category": "🔼",
       "title": "Audbren Elevating Landing Site",
-      "description": "Landing site for Audbren Elevating. Incorporates Google Maps to show business locations.",
-      "tags": ["GatsbyJS", "HTML5", "CSS"],
+      "description": "Demo Landing site for Audbren Elevating built using Gatsby. Currently has placeholder text and some stock images as content is still under review. Incorporates Google Maps to show business locations.",
+      "tags": ["GatsbyJS", "HTML5", "CSS3"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/audbren.png",
         "alt": "Extendable Layout"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/OneilGordon/audbrenelevating"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://upbeat-wing-c75d9a.netlify.app"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "SendGrid events",
-      "description": "Pull mailing events from SendGrid using either a webhook or timed api calls.",
-      "tags": ["DevOps", "Azure", "WebHooks", "API", "Python"],
+      "category": "📬",
+      "title": "SendGrid Events Tracking",
+      "description": "Pull mailing events from SendGrid using either a webhook or timed api calls. These events are then stored to a specified blob storage account for use in PowerBI reporting.",
+      "tags": ["DevOps", "Azure", "Sendgrid Event WebHooks", "Sendgrid Event API", "Python"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/sg-events.png",
         "alt": "Quick Setup"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/OneilGordon/sg-events"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Data Factory Unzip",
-      "description": "Data Factory pipeline step that handles extraction of very large zip files.",
-      "tags": ["DevOps", "Azure", "WebHooks", "API", "Python", "Pipeline"],
+      "category": "🏭",
+      "title": "Data Factory Large File Extraction",
+      "description": "Data Factory pipeline step (custom Azure Function) that handles extraction of very large zip files. Files can be uploaded to a specified blob container and will be extracted to the same or different location in blob storage.",
+      "tags": ["DevOps", "Azure", "Python", "Pipeline"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/df-unzip.png",
         "alt": "Extendable Layout"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/OneilGordon/df-unzip"
         }
       ]
     }
