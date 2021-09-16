@@ -6,7 +6,7 @@
     "titleTemplate": "%s · Oneil Gordon",
     "description": "A site showcasing the work of Oneil Gordon",
     "author": "Oneil Gordon",
-    "avatar": "../content/images/onei-profile.jpg",
+    "avatar": "../content/images/oneil-profile.jpg",
     "bio": "Highly motivated, immensely curious and always learning. Fluent in Python and JavaScript across the stack.",
     "social": {
       "github": "https://github.com/OneilGordon",
