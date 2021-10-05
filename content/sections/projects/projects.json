@@ -4,7 +4,7 @@
       "visible": true,
       "category": "📅",
       "title": "Event Calendar",
-      "description": "Full stack Event Calendar application built using React + Material UI for the client, alongside Express and MongoDB for the API. Users can add, remove and edit events(sorted by organization) to a persistent database. *Actively under development*",
+      "description": "Full stack Event Calendar application built using React + Material UI for the client, alongside Express and MongoDB for the API. Users can add, remove and edit events (sorted by organization) to a persistent database. *Actively under development*",
       "tags": ["React", "Express.js", "Node.js", "MongoDB"],
       "image": {
         "src": "../../images/event-calendar.png",
