@@ -4,13 +4,17 @@
       "visible": true,
       "category": "📅",
       "title": "Event Calendar",
-      "description": "Full stack Event Calendar application built using React for the client, alogside Express and MongoDB for the API. Users can add, remove and edit events(sorted by organization) to a persistent database. *This project is currently being used by a client and is in a private repository. I'm working on providing a public version of this asap. Please contact me if you would like me to share the code with you*",
+      "description": "Full stack Event Calendar application built using React for the client, alogside Express and MongoDB for the API. Users can add, remove and edit events(sorted by organization) to a persistent database.*Actively under development*",
       "tags": ["React", "Express.js", "Node.js", "MongoDB"],
       "image": {
         "src": "../../images/event-calendar.png",
         "alt": "Quick Setup"
       },
       "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/OneilGordon/event-calendar"
+        },
         {
           "type": "external",
           "url": "https://event-calendar.oneilgordon.dev"
